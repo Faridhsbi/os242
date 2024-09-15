@@ -17,5 +17,5 @@ permalink: LINKS/
 * [Basic Vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html) --- Here are some basic vi commands that are likely to be most useful for doing weekly assignments.
 * [C Programming Language for Beginner](https://www.javatpoint.com/c-programming-language-tutorial) --- C language used to develop system applications that interact directly with hardware devices, such as drivers, kernels, and more.
 <hr>
-REV : Mon, 15 Sep 2024, 12:24
+REV : Sun, 15 Sep 2024, 15:40
 <hr> 

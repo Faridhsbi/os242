@@ -16,6 +16,9 @@ permalink: LINKS/
 ## WEEK 2
 * [Basic Vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html) --- Here are some basic vi commands that are likely to be most useful for doing weekly assignments.
 * [C Programming Language for Beginner](https://www.javatpoint.com/c-programming-language-tutorial) --- C language used to develop system applications that interact directly with hardware devices, such as drivers, kernels, and more.
+## WEEK 3
+* [File Management in Linux](https://www.geeksforgeeks.org/file-management-in-linux/) --- A website that provides clear explanations, examples, and demonstrations of common file management commands used in Linux.
+* [Compile C program with GCC](https://developerinsider.co/compile-c-program-with-gcc-compiler-on-bash-on-ubuntu-on-windows-10/) --- The site guides us through compiling a C program using GCC. It covers GCC installation, writing and compiling a simple program, and verifying the installation and execution process.
 <hr>
-REV : Sun, 15 Sep 2024, 15:40
+REV : Sun, 22 Sep 2024, 13:30
 <hr> 

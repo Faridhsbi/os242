@@ -19,6 +19,9 @@ permalink: LINKS/
 ## WEEK 3
 * [File Management in Linux](https://www.geeksforgeeks.org/file-management-in-linux/) --- A website that provides clear explanations, examples, and demonstrations of common file management commands used in Linux.
 * [Compile C program with GCC](https://developerinsider.co/compile-c-program-with-gcc-compiler-on-bash-on-ubuntu-on-windows-10/) --- The site guides us through compiling a C program using GCC. It covers GCC installation, writing and compiling a simple program, and verifying the installation and execution process.
+## WEEK 4
+* [Little and Big Endian](https://www.geeksforgeeks.org/little-and-big-endian-mystery/) --- The website explains endianness, which refers to how bytes are ordered in memory, with two main types: big-endian (most significant byte stored first) and little-endian (least significant byte stored first). It highlights how endianness affects data storage, system communication, and interoperability.
+* [OS Memory Management](https://www.guru99.com/os-memory-management.html) --- The article explains memory management techniques in operating systems, covering methods like partitioning, paging, segmentation, and swapping, while also addressing memory allocation, fragmentation, and the differences between dynamic loading and linking.
 <hr>
-REV : Sun, 22 Sep 2024, 13:30
+REV : Mon, 30 Sep 2024, 11:00
 <hr> 

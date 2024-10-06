@@ -22,6 +22,9 @@ permalink: LINKS/
 ## WEEK 4
 * [Little and Big Endian](https://www.geeksforgeeks.org/little-and-big-endian-mystery/) --- The website explains endianness, which refers to how bytes are ordered in memory, with two main types: big-endian (most significant byte stored first) and little-endian (least significant byte stored first). It highlights how endianness affects data storage, system communication, and interoperability.
 * [OS Memory Management](https://www.guru99.com/os-memory-management.html) --- The article explains memory management techniques in operating systems, covering methods like partitioning, paging, segmentation, and swapping, while also addressing memory allocation, fragmentation, and the differences between dynamic loading and linking.
+## WEEK 5
+* (Virtual Memory)[https://www.tutorialspoint.com/operating_system/os_virtual_memory.htmhttps://www.tutorialspoint.com/operating_system/os_virtual_memory.htm] --- The website explain that Virtual memory allows a computer to extend physical memory using disk space and provides memory protection by translating virtual addresses to physical addresses.
+* (Page faults and memory swapping)[https://www.site24x7.com/learn/linux/page-faults-memory-swapping.html] --- Paging and memory swapping are techniques that manage memory efficiently by allowing processes to move between RAM and virtual memory, handling page faults and preventing memory overflow to maintain system performance.
 <hr>
-REV : Mon, 30 Sep 2024, 11:00
+REV : Sun, 06 Oct 2024, 11:00
 <hr> 

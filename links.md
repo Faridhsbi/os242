@@ -30,5 +30,5 @@ permalink: LINKS/
 * [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) --- The article explain that The fork system call in Linux and Unix creates a new child process that runs concurrently with the parent, sharing the same program counter, CPU registers, and open files, with return values indicating the success or failure of the child process creation.
 
 <hr>
-REV : Mon, 10 Oct 2024, 10:30
+REV : Mon, 29 Oct 2024, 10:30
 <hr> 

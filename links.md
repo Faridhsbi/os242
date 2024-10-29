@@ -24,8 +24,11 @@ permalink: LINKS/
 * [OS Memory Management](https://www.guru99.com/os-memory-management.html) --- The article explains memory management techniques in operating systems, covering methods like partitioning, paging, segmentation, and swapping, while also addressing memory allocation, fragmentation, and the differences between dynamic loading and linking.
 ## WEEK 5
 * [Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm) --- The website explain that Virtual memory allows a computer to extend physical memory using disk space and provides memory protection by translating virtual addresses to physical addresses.
-* [Page faults and memory swapping](https://www.site24x7.com/learn/linux/page-faults-memory-swapping.html) --- Paging and memory swapping are techniques that manage memory efficiently by allowing processes to move between RAM and virtual memory, handling page faults and preventing memory overflow to maintain system performance.
+* [Page faults and memory swapping](https://www.site24x7.com/learn/linux/page-faults-memory-swapping.html) --- Paging and memory swapping are techniques that manage memory efficiently by allowing processes to move between RAM and virtual memory, handling page faults and preventing memory overflow to maintain system performance
+## WEEK 6
+* [Fork System Call in Operating System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/) --- The fork system call allows a process to create a copy of itself, resulting in a child process that runs tasks in parallel with memory optimization through copy-on-write, though it can lead to memory overhead and communication complexity.
+* [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) --- The article explain that The fork system call in Linux and Unix creates a new child process that runs concurrently with the parent, sharing the same program counter, CPU registers, and open files, with return values indicating the success or failure of the child process creation.
 
 <hr>
-REV : Sun, 06 Oct 2024, 11:00
+REV : Mon, 10 Oct 2024, 10:30
 <hr> 

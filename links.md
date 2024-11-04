@@ -28,7 +28,12 @@ permalink: LINKS/
 ## WEEK 6
 * [Fork System Call in Operating System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/) --- The fork system call allows a process to create a copy of itself, resulting in a child process that runs tasks in parallel with memory optimization through copy-on-write, though it can lead to memory overhead and communication complexity.
 * [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) --- The article explain that The fork system call in Linux and Unix creates a new child process that runs concurrently with the parent, sharing the same program counter, CPU registers, and open files, with return values indicating the success or failure of the child process creation.
+## WEEK 7
+* [Deadlock System Model](https://www.geeksforgeeks.org/deadlock-system-model/) --- This site offers an overview of deadlock systems, explaining that deadlock happens when processes are halted as each holds a resource and waits for another, along with detailing the operations and conditions that lead to deadlock.
+* [What is a semaphore?](https://www.youtube.com/watch?v=ukM_zzrIeXs) --- A semaphore is a synchronization tool used to control access to a shared resource among multiple processes. This video explains how semaphores function, aiming to clear up common confusion due to their flexibility and complexity, and provides an example of using semaphores to coordinate processes in C.
+ 
+
 
 <hr>
-REV : Mon, 29 Oct 2024, 10:30
+REV : Mon, 04 Nov 2024, 20:00
 <hr> 

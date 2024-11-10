@@ -31,9 +31,12 @@ permalink: LINKS/
 ## WEEK 7
 * [Deadlock System Model](https://www.geeksforgeeks.org/deadlock-system-model/) --- This site offers an overview of deadlock systems, explaining that deadlock happens when processes are halted as each holds a resource and waits for another, along with detailing the operations and conditions that lead to deadlock.
 * [What is a semaphore?](https://www.youtube.com/watch?v=ukM_zzrIeXs) --- A semaphore is a synchronization tool used to control access to a shared resource among multiple processes. This video explains how semaphores function, aiming to clear up common confusion due to their flexibility and complexity, and provides an example of using semaphores to coordinate processes in C.
- 
-
+## WEEK 08
+* [Preemptive and Non-Preemptive Scheduling](https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/) --- This article effectively contrasts preemptive and non-preemptive process scheduling, making the concepts accessible through its concise presentation and visual aids. The combination of tables and diagrams alongside brief explanations helps readers grasp the material with ease.  
+* [Scheduling Algorithms](https://www.javatpoint.com/os-scheduling-algorithms) --- This website explains that the scheduling algorithms in an operating system are used to manage process execution efficiently, aiming for maximum CPU utilization, fair CPU allocation, and minimum response, waiting, and turnaround times.
+* [Linux From Scratch 12.2 Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3) --- 
+The video is extremely helpful, providing a clear, step-by-step guide that simplifies the setup process. The detailed explanations make each command easy to understand, ensuring no critical steps are missed.
 
 <hr>
-REV : Mon, 04 Nov 2024, 20:00
+REV : Sun, 10 Nov 2024, 15:00
 <hr> 
